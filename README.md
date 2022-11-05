@@ -1,7 +1,7 @@
 # zes-platform
 %HTML, CSS, JS, JQUERY, - web site 
 
-![alt text](http://img/book1.jpg)
+![alt text](https://github.com/MrKhakimov/zes-platform/blob/master/img2.png)
 
 the site ordered from [teamwork.uz
 ](https://teamwork.uz/)
